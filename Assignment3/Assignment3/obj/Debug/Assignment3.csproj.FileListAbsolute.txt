@@ -1,0 +1,10 @@
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.frmB.resources
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.Form2.resources
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\CHRISTINE\Documents\Visual Studio 2012\quiz1-harder\assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
